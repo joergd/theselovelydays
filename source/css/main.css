@@ -48,12 +48,4 @@
   .contact a {
     color: #444;
   }
-
-  @media (max-width: 480px) {
-    .background {
-      width: 640px;
-      height: 1136px;
-      background-image: url(/img/bg-640x1136.jpg);
-    }
-  }
 }
